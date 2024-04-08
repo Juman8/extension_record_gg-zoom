@@ -28,13 +28,12 @@ Tạo dự án mới hoặc sử dụng dự án hiện có.
 2. Tạo OAuth 2.0 credentials:
 Tạo OAuth 2.0 credentials để xác thực với Google Meet API.
 Lưu ý: lưu lại client ID và client secret để sử dụng trong mã của bạn.
-3. Viết mã JavaScript:
-Sử dụng Google Meet API để truy cập vào các thông tin của cuộc họp, như:  danh sách người tham gia, âm thanh và video.
+3. JavaScript:
+Sử dụng Google Meet API để truy cập vào các thông tin của cuộc họp, như: danh sách người tham gia, âm thanh và video.
 Tham khảo tài liệu Google Meet API để biết chi tiết về cách sử dụng API.
-4. Chạy mã:
+4. Code:
 Chạy mã của bạn để truy cập vào các thông tin của cuộc họp.
 Tài liệu tham khảo:
-Google Meet API: [đã xoá URL không hợp lệ]
 OAuth 2.0: https://developers.google.com/identity/protocols/oauth2
 
 Ví dụ:
@@ -59,7 +58,7 @@ function getParticipants() {
 
 
 
-SỬ DỤNG THƯ VIỆN ĐỂ GHI  M THANH
+SỬ DỤNG THƯ VIỆN ĐỂ GHI  ÂM THANH
 Cài đặt thư viện @google-meet/sdk để truy cập vào Google Meet API.
 Cài đặt thư viện web-audio-api để xử lý âm thanh.
 Cài đặt thư viện speech-recognition để nhận dạng giọng nói.
