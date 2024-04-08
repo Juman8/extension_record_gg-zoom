@@ -6,10 +6,10 @@ Tạo dự án Google Apps Script:
 Truy cập Google Cloud Platform Console.
 Tạo dự án mới.
 Bật Google Apps Script API.
-Viết mã JavaScript:
+Mã code:
 Sử dụng Google Meet API để truy cập vào các thông tin của cuộc họp, chẳng hạn như danh sách người tham gia, âm thanh và video.
-Sử dụng các thư viện JavaScript để xử lý âm thanh và video, chẳng hạn như WaveSurfer.js và SpeechRecognition.js.
-Sử dụng AI để xác định người đang nói, chẳng hạn như TensorFlow.js.
+Sử dụng các thư viện JavaScript để xử lý âm thanh và video, như: WaveSurfer.js và SpeechRecognition.js.
+(Co thể Sử dụng AI để xác định người đang nói trong trường hợp google và Zoom không hỗ trợ, chẳng hạn như TensorFlow.js, Roboflow).
 Hiển thị tên người đang nói trên màn hình hoặc trong bản ghi.
 Cấu hình manifest v3:
 Xác định quyền hạn mà tiện ích mở rộng cần.
@@ -27,9 +27,9 @@ Bật Google Meet API.
 Tạo dự án mới hoặc sử dụng dự án hiện có.
 2. Tạo OAuth 2.0 credentials:
 Tạo OAuth 2.0 credentials để xác thực với Google Meet API.
-Lưu ý client ID và client secret để sử dụng trong mã của bạn.
+Lưu ý: lưu lại client ID và client secret để sử dụng trong mã của bạn.
 3. Viết mã JavaScript:
-Sử dụng Google Meet API để truy cập vào các thông tin của cuộc họp, chẳng hạn như danh sách người tham gia, âm thanh và video.
+Sử dụng Google Meet API để truy cập vào các thông tin của cuộc họp, như:  danh sách người tham gia, âm thanh và video.
 Tham khảo tài liệu Google Meet API để biết chi tiết về cách sử dụng API.
 4. Chạy mã:
 Chạy mã của bạn để truy cập vào các thông tin của cuộc họp.
